@@ -3632,8 +3632,8 @@ img.u-pull-left {
  *
  * ------------------------------------------------------------------- */
 .s-works {
-    padding-top      : calc(6 * var(--space));
-    padding-bottom   : calc(5.5 * var(--space));
+    padding-top      : calc(4 * var(--space));
+    padding-bottom   : calc(3.5 * var(--space));
     background-color : white;
 }
 
