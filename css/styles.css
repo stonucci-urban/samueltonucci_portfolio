@@ -3736,7 +3736,7 @@ img.u-pull-left {
 }
 
 .folio-item__meta .project-link {
-    color  : var(--color-text);
+    color  : #f00;
     margin : 0 .8rem;
 }
 
